@@ -667,11 +667,13 @@ textarea {
     margin-bottom: 1.5rem;
     margin-right: 1.5rem;
     font-size: 1.6rem;
-    background: rgba(153, 153, 153, 0.2);
-    border-radius: 5px;
+    background: rgba(192,213,255);
+    border-radius: 30px;
     font-weight: 600;
-    color: #777; }
+    color: #5588e0; }
 
+#tech:hover {background: radial-gradient(circle, #cfcee8, #d0c7ea, #d4bfea, #dab6e8, #e3ace3);}
+a:hover{background-image: radial-gradient(circle, #e8e5ce, #9bb19e, #547d7a, #1d4959, #061830);}
 .mouse {
   width: 25px;
   height: 40px;
